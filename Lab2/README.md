@@ -1,7 +1,7 @@
 # Lab 2: Git: Remotes, Push and Clone
 
-**Name:** Anubhav Kumar  
-**Roll No:** 2410303091  
+**Name:** Shekhar 
+**Roll No:** 2410303457
 **Course:** BCS554 - HTML & CSS Development Lab
 
 ## Aim
@@ -12,7 +12,7 @@ Connect a repository to a remote, push the commits and clone it.
 
 ## Commands and output
 ```
-# Assignment 2 - Name: Anubhav Kumar | Roll No: 2410303091
+# Assignment 2 - Name: shekhar | Roll No: 2410303457
 
 ## Task 1
 $ git init --bare -b main ../html-remote
