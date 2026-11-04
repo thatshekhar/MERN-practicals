@@ -1,7 +1,7 @@
 # Lab 1: Git: Setting Up a Repository and Making Commits
 
 **Name:** Shekhar
-**Roll No:** 2410303457 
+**Roll No:** 2410303457
 **Course:** BCS554 - HTML & CSS Development Lab
 
 ## Aim
@@ -12,7 +12,7 @@ Create a repository, set the user details and make commits.
 
 ## Commands and output
 ```
-# Assignment 1 - Name: Anubhav Kumar | Roll No: 2410303091
+# Assignment 1 - Name: Shekhar | Roll No: 2410303457
 
 ## Task 1
 $ mkdir html-lab
@@ -20,15 +20,15 @@ $ mkdir html-lab
 $ git init -b main
 Initialized empty Git repository in ~/html-lab/.git/
 
-$ git config --local user.name "Anubhav Kumar"
+$ git config --local user.name "Shekhar"
 
-$ git config --local user.email "anubhav@example.com"
+$ git config --local user.email "shekhar@example.com"
 
 $ git config user.name
-Anubhav Kumar
+Shekhar
 
 $ git config user.email
-anubhav@example.com
+shekhar@example.com
 
 ## Task 2
 $ echo "<h1>Welcome to My Lab</h1>" > index.html
